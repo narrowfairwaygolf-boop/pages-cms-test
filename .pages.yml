@@ -1,0 +1,9 @@
+content:
+  - name: test
+    label: Test
+    type: file
+    path: data.json
+    format: json
+    fields:
+      - name: title
+        type: string
